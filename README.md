@@ -58,7 +58,7 @@ Set up professional profiles on three platforms:
 
 Platform	Profile Link	Purpose
 GitHub	(https://github.com/ashitosh25mei10069-sudo/digital-literacy-project-work)	Code portfolio, projects, open source
-LinkedIn	(https://www.linkedin.com/in/ashitoshpatil)	Professional networking, placements
+LinkedIn	(https://www.linkedin.com/in/ashitosh-patil-1a87963bb/?skipRedirect=true)	Professional networking, placements
 Kaggle	[(https://www.kaggle.com/AshitoshPatil8)	Data science, ML competitions
 GitHub Profile README highlights:
 
