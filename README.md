@@ -2,8 +2,8 @@ Digital Literacy Portfolio
 CSE0001 – Digital Literacy | VIT Bhopal University
 Student Details
 Field	Details
-Name	Aayush Jaswal
-Registration No.	25BCE11360
+Name	Ashitosh Patil
+Registration No.	25MEI10069
 Year / Semester	First Year
 Course Code	CSE0001 – Digital Literacy
 Credits	1 Credit · Pass / Fail (Non-CGPA)
@@ -57,12 +57,12 @@ Task 2 — Student Digital Portfolio · Module 2 · 20 Marks
 Set up professional profiles on three platforms:
 
 Platform	Profile Link	Purpose
-GitHub	(https://github.com/AayushBits)	Code portfolio, projects, open source
-LinkedIn	(https://www.linkedin.com/in/aayush-jaswal)	Professional networking, placements
-Kaggle	[(https://www.kaggle.com/aayushjaswal)	Data science, ML competitions
+GitHub	(https://github.com/ashitosh25mei10069-sudo/digital-literacy-project-work)	Code portfolio, projects, open source
+LinkedIn	(https://www.linkedin.com/in/ashitoshpatil)	Professional networking, placements
+Kaggle	[(https://www.kaggle.com/AshitoshPatil8)	Data science, ML competitions
 GitHub Profile README highlights:
 
- Hi, I'm Aayush Jaswal
+ Hi, I'm Ashitosh Patil
  CSE (core) | First Year | VIT Bhopal University
  Currently learning: Digital Literacy, Python, and Cybersecurity fundamentals
 Task 3 — Coding & Collaboration Platforms · Module 3 · 20 Marks
